@@ -17,4 +17,4 @@ Hizab
 
 email: hizab_ov@hotmail.com
 
-As seen on highend3d.com
+As seen on highend3d.com and inspired from Daniel Kramer's dkanim MEL script.
